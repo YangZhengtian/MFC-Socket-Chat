@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ChatSocket.cpp
+  ChatServerDlg.cpp
+c:\users\yztia\documents\visual studio 2015\projects\chatserver\chatserver\chatserverdlg.cpp(231): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ChatServer.cpp
+  正在生成代码...
+  ChatServer.vcxproj -> C:\Users\yztia\Documents\Visual Studio 2015\Projects\ChatServer\x64\Debug\ChatServer.exe
+  ChatServer.vcxproj -> C:\Users\yztia\Documents\Visual Studio 2015\Projects\ChatServer\x64\Debug\ChatServer.pdb (Full PDB)
